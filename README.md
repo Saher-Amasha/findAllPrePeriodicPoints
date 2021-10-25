@@ -21,3 +21,5 @@ In the **images** folder there's some pictures of the graphs we got after runnig
 </br>
 
 ![](images/pre-periodic-graph.png)
+
+P.S. the project was originally uploaded to https://trac.sagemath.org and then re-uploaded to GitHub
